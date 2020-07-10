@@ -5,10 +5,11 @@
 
 Here are some information about me:
 
-- 🔭 https://zoe.im
-- 📫 hi@zoe.im
-- 🌎 Hangzhou, China
-- ⚡ @wellwellwork
-- 🛠️ Kubernetes, Cloud Native
+|:-:|
+|- 🔭 https://zoe.im|
+|- 📫 hi@zoe.im|
+|- 🌎 Hangzhou, China|
+|- ⚡ @wellwellwork|
+|- 🛠️ Kubernetes, Cloud Native|
 
 </div>
