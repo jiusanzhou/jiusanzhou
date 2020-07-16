@@ -13,4 +13,6 @@ Here are some information about me:
 | ⚡ @wellwellwork|
 | 🛠️ Kubernetes, Cloud Native|
 
+![Readme Stat](https://github-readme-stats.vercel.app/api?username=jiusanzhou&&show_icons=true)
+
 </div>
