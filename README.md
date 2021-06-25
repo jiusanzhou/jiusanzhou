@@ -5,7 +5,7 @@
 </div>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=jiusanzhou&show_icons=true" alt="Readme Stat" align="right" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiusanzhou&hide=css,html,kotlin" align="right" alt="Top Lang" height="260" />
 
 Here are some information about me:
 
@@ -14,3 +14,6 @@ Here are some information about me:
 - 🌎 Hangzhou, China
 - ⚡ @wellwellwork
 - 🛠️ Kubernetes, Cloud Native
+
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=jiusanzhou&show_icons=true" alt="Readme Stat" align="right" /> -->
