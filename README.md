@@ -5,8 +5,6 @@
 </div>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiusanzhou&hide=css,html,kotlin" align="right" alt="Top Lang" height="260" />
-
 Here are some information about me:
 
 - 🔭 https://zoe.im
@@ -16,4 +14,11 @@ Here are some information about me:
 - 🛠️ Kubernetes, Cloud Native
 
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=jiusanzhou&show_icons=true" alt="Readme Stat" align="right" /> -->
+
+
+
+
+<a href="https://github.com/jiusanzhou">
+  <img src="https://github-readme-stats.vercel.app/api?username=jiusanzhou&show_icons=true" alt="Readme Stat" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiusanzhou&layout=compact&hide=css,html,kotlin" alt="Top Lang" height="180em" />
+</a>
