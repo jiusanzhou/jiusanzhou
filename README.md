@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=200&section=header&text=Hi%20there%20%F0%9F%91%8B%2C%20I'm%20Zoe&fontSize=42&fontColor=a9b1d6&fontAlignY=35&animation=fadeIn&desc=Cloud%20Native%20%7C%20Kubernetes%20%7C%20Open%20Source&descSize=18&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=200&section=header&text=Hi%20there%20%F0%9F%91%8B%2C%20I'm%20Zoe&fontSize=42&fontColor=a9b1d6&fontAlignY=35&animation=fadeIn&desc=AI%20Infra%20%7C%20MLOps%20%7C%20Cloud%20Native&descSize=18&descAlignY=55"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=500&lines=Cloud+Native+Enthusiast;Kubernetes+Expert;Open+Source+Contributor;Building+the+Future" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=500&lines=AI+Infrastructure+Engineer;MLOps+%26+LLMOps+Enthusiast;Building+Scalable+AI+Systems;Open+Source+Contributor" alt="Typing SVG" />
 </a>
 
 </div>
@@ -24,10 +24,11 @@ email: hi@zoe.im
 twitter: "@wellwellwork"
 
 focus:
-  - Kubernetes
+  - AI Infrastructure
+  - MLOps / LLMOps
+  - GPU Cluster & Scheduling
+  - Model Serving & Inference
   - Cloud Native
-  - Infrastructure
-  - Open Source
 ```
 
 </div>
@@ -37,14 +38,16 @@ focus:
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/vLLM-FF6F00?style=for-the-badge&logo=v&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitOps-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Triton-764ABC?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
 </p>
 
 ---
