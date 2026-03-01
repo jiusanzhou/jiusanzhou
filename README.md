@@ -19,7 +19,7 @@ name: Zoe
 location: Hangzhou, China
 website: https://zoe.im
 email: hi@zoe.im
-twitter: "@wellwellwork"
+twitter: "@jiusanzhou"
 
 what_i_do:
   - AI developer tools (multi-agent systems, CLI tools)
@@ -66,8 +66,8 @@ current_projects:
   <a href="https://zoe.im" target="_blank">
     <img src="https://img.shields.io/badge/Blog-zoe.im-7aa2f7?style=for-the-badge&logo=safari&logoColor=white" />
   </a>
-  <a href="https://twitter.com/wellwellwork" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@wellwellwork-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://twitter.com/jiusanzhou" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@jiusanzhou-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://github.com/jiusanzhou" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-jiusanzhou-24292e?style=for-the-badge&logo=github&logoColor=white" />
