@@ -23,7 +23,6 @@ twitter: "@jiusanzhou"
 
 day_job:
   role: AI Infra Engineer
-  company: Kuaishou — 万擎 inference platform
   focus:
     - LLM serving (vLLM / SGLang / TensorRT-LLM)
     - GPU cluster orchestration & RDMA networking
