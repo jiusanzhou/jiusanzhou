@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=200&section=header&text=Hey%20%F0%9F%91%8B%2C%20I'm%20Zoe&fontSize=42&fontColor=a9b1d6&fontAlignY=35&animation=fadeIn&desc=AI%20Tools%20%7C%20Open%20Source%20%7C%20Indie%20Hacker&descSize=18&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=200&section=header&text=Hey%20%F0%9F%91%8B%2C%20I'm%20Zoe&fontSize=42&fontColor=a9b1d6&fontAlignY=35&animation=fadeIn&desc=AI%20Infra%20%7C%20LLM%20Serving%20%7C%20AI%20Ops%20Tools&descSize=18&descAlignY=55"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=500&lines=Building+AI+tools+for+passive+income;Go+%2F+Flutter+%2F+Rust;Open+source+everything;Ship+fast%2C+document+publicly" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=560&lines=AI+Infra+Engineer+%E2%80%94+LLM+Serving+%2F+GPU+%2F+RDMA;Building+AI+Ops+tools+%26+passive+income;Open+source+everything;Ship+fast%2C+document+publicly" alt="Typing SVG" />
 </a>
 
 </div>
@@ -21,16 +21,23 @@ website: https://zoe.im
 email: hi@zoe.im
 twitter: "@jiusanzhou"
 
-what_i_do:
-  - AI developer tools (multi-agent systems, CLI tools)
-  - Open source projects in Go / Flutter / Rust
-  - Building passive income with code + content
-  - Documenting the entire journey publicly
+day_job:
+  role: AI Infra Engineer
+  company: Kuaishou — 万擎 inference platform
+  focus:
+    - LLM serving (vLLM / SGLang / TensorRT-LLM)
+    - GPU cluster orchestration & RDMA networking
+    - PD disaggregation, KV cache transfer
+    - Multi-tenant inference at scale
 
-current_projects:
+side_projects:
   - distro: Content distribution CLI — write once, publish everywhere
   - automagent: AI agent that controls your phone (Flutter)
+  - k8s-rdma-device-plugin: RDMA device plugin for K8s
   - Multi-agent dev workflow (OpenClaw)
+
+mission: Build AI Ops tools and passive income systems —
+         document the journey publicly.
 ```
 
 </div>
@@ -40,13 +47,19 @@ current_projects:
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+<p align="center">
+  <em>AI / Infra:</em>
+  <code>vLLM</code> · <code>SGLang</code> · <code>TensorRT-LLM</code> · <code>Triton</code> · <code>Ray</code> · <code>NCCL</code> · <code>RDMA / IB</code> · <code>NRI</code>
 </p>
 
 ---
